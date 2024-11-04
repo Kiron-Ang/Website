@@ -5,11 +5,12 @@ title: "Welcome to Kiron Ang's Personal Website!"
 Here are some quick facts about me:
 
 - My name is Kiron Ang
-- I'm an undergraduate student at Baylor University! 
+- I'm an undergraduate student at Baylor University.
 - I currently live in Waco, Texas, United States. 
 - I plan to graduate in December 2025 with a BS in Informatics.
 - I'm 20 years old.
 - Before moving to Waco, I lived in Mission, TX.
 - I was born and raised in the Rio Grande Valley.
 
+You can view my recent work at https://github.com/Kiron-Ang.
 If you'd like to contact me, please send me an email at kiron_ang1@baylor.edu!

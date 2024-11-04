@@ -2,6 +2,8 @@
 title: "Blog"
 ---
 
+This page contains my daily life updates.
+
 ### November 3, 2024, Sunday
 Today, I stayed at home and worked on some homework. 
 I also used ChatGPT to play a text-based adventure game.
