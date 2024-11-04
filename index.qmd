@@ -2,4 +2,8 @@
 title: "Welcome to Kiron Ang's Personal Website!"
 ---
 
-My name is Kiron Ang, and I'm an undergraduate student at Baylor University! I currently live in Waco, TX as I pursue a Bachelor of Science in Informatics. I plan to graduate in December 2025 unless something goes horribly wrong.
+My name is Kiron Ang, and I'm an undergraduate student at Baylor University! 
+I currently live in Waco, Texas, United States. 
+I plan to graduate in December 2025 with a BS in Informatics unless something goes horribly wrong.
+Before moving to Waco, I lived in Mission, TX.
+I was born and raised in the Rio Grande Valley.
